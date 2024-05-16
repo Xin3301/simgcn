@@ -25,8 +25,8 @@
 
 
 ## Run
-直接运行:
-* bash train_gin.sh
-* bash train_gcn.sh
-* bash train_gcn_ver2.sh
+* cd src
+  * bash train_gin.sh
+  * bash train_gcn.sh
+  * bash train_gcn_ver2.sh
 
